@@ -1,0 +1,32 @@
+Functional interface
+====================
+The interface that has only one abstract method is called functional interface
+
+@FunctionalInterface
+public interface AA
+{
+}
+Few functional interfaces are as follows
+1. Runnable interface
+run() method
+2. Comparable interface
+compareTo() method
+3. Comparator interface
+compare() method
+etc
+Few functional interfaces that were introduced in java8
+1. Function interface
+apply() method
+2. Predicate interface
+test() method
+3. Consumer interface
+aaccept() method
+4. Supplier interface
+get() method
+etc
+
+Why functional interface?
+To support lambda expressions and make Java more concise, readable, and functional-style. 
+
+
+

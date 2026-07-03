@@ -1,0 +1,21 @@
+Types of Stream Operations
+==========================
+1️. Intermediate Operations
+(Return Stream)
+filter()
+map()
+sorted()
+distinct()
+limit()
+skip()
+
+
+2️. Terminal Operations
+(Return result / end stream)
+forEach()
+collect()
+count()
+reduce()
+findFirst()
+anyMatch()
+allMatch()

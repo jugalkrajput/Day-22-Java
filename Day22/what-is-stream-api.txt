@@ -1,0 +1,17 @@
+The Stream API (Java 8) is used to process collections of data in a functional and declarative way.
+
+=> It allows you to perform operations like filtering, mapping, sorting, and reducing without changing the original data.
+
+Stream API is a Java 8 feature that processes collections of objects in a pipeline of functional operations.
+
+What is a Stream?
+=================
+A Stream is:
+->Not a data structure
+->Does not store data
+->Works on a source (Collection, Array, I/O)
+->Processes data on demand
+
+Stream Pipeline
+===============
+Source → Intermediate Operations → Terminal Operation
